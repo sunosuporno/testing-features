@@ -1,0 +1,21 @@
+{
+  "name": "testing-features",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@web3-onboard/core": "^2.3.0",
+    "@web3-onboard/injected-wallets": "^2.0.10",
+    "@web3-onboard/vue": "^2.1.0",
+    "pinia": "^2.0.14",
+    "vue": "^3.2.37",
+    "vue-router": "^4.0.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.12"
+  }
+}
